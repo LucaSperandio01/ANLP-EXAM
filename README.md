@@ -1,4 +1,13 @@
 # ANLP-EXAM
+## Installation 
+In order to run this notebook you will need to install the following libraries:
+- Transformers
+- Torch
+- Datasets
+- Numpy
+- Pandas
+- Matplotlib
+- sciit-learn
 ## Usage
 This code is aimed to research how transformer-based models like ProtBert represent single amino acids mutation in proteins, in order to understand if those models can capture just from the amino acid sequence, secondary features that can lead to an early prediction of aspects like protein functionality, stability, ecc.
 ## Dataset 
